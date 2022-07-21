@@ -1,0 +1,14 @@
+.Header {
+    background-color: #000000;
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+img {
+    width: 50;
+    height: 50;
+}

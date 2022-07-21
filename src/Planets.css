@@ -1,0 +1,19 @@
+.Planet-header {
+    background-color: #393e48;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-start;
+    font-size: calc(10px + 1vmin);
+    color: white;
+}
+
+.Planet-desc {
+    font-family: monospace;
+}
+
+img:hover {
+    cursor: pointer;
+}
